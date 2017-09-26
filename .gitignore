@@ -72,6 +72,13 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+/TestResults
+*.vspscc
+*.vssscc
 
 # TFS 2012 Local Workspace
 $tf/
